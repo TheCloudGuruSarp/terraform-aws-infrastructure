@@ -4,7 +4,7 @@ A comprehensive AWS infrastructure setup using Terraform, following best practic
 
 ## Architecture
 
-![Architecture](./docs/architecture.png)
+This project implements a multi-tier AWS architecture with VPC networking, auto-scaling application servers, managed database services, and comprehensive monitoring - all defined as infrastructure as code using Terraform.
 
 ## Features
 
