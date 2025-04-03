@@ -2,6 +2,11 @@
 
 A comprehensive AWS infrastructure setup using Terraform, following best practices for scalable, secure, and maintainable cloud architecture.
 
+## ✨ Developed by Sarper ✨
+
+---
+
+
 ## Architecture
 
 This project implements a multi-tier AWS architecture with VPC networking, auto-scaling application servers, managed database services, and comprehensive monitoring - all defined as infrastructure as code using Terraform.
